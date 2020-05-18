@@ -15,6 +15,7 @@ The first version of the Elric AI use the MonteCarlo algorithme :
 The AI will play, in a hidden way, a lot of random play based on the current state of the board, and will play the move that most often results in victory.
 
 Elric TicTacToe v1 : https://github.com/TonyChouteau/ElricT3_v1
+
 Elric Connect4 v1 : https://github.com/TonyChouteau/ElricConnect4_v1
 
 In a few tries, we noticed that this algorithm was vulnerable to simple strategies. 
@@ -30,4 +31,5 @@ The AI will explore the tree of possibilities by keeping the best move if it is 
 Unlike Monte Carlo, MinMax takes into account that the opposing player will play the best move for him, not random moves.
 
 Elric TicTacToe v2 : https://github.com/TonyChouteau/ElricT3_v2
+
 Elric Connect4 v2 : IN PROGRESS ...
