@@ -1,0 +1,2 @@
+# ELRIC
+ELRIC - AI project 
