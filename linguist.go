@@ -1,7 +1,1 @@
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("This file is here to setup linguist because I use go in this project")
-}
+#This file is here to setup linguist because I use golang in the V1 of the AI
