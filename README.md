@@ -4,7 +4,7 @@
 
 ELRIC is a group project consisting in familiarizing oneself with AI techniques through board games (TicTacToe, Connect4, Chess).
 
-The initial project was to build a chess AI, the first step of the project was to create a chess engine. 
+The initial project was to build a chess AI, the first step of the project was to create a chess engine in C. 
 
 Then we started to look for the AI itself. For this we started on a small scale, on simpler games such as TicTacToe or Connect4.
 
